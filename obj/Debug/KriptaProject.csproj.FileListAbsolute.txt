@@ -1,0 +1,7 @@
+C:\Users\Азат\source\repos\KriptaProject\KriptaProject\bin\Debug\KriptaProject.exe.config
+C:\Users\Азат\source\repos\KriptaProject\KriptaProject\bin\Debug\KriptaProject.exe
+C:\Users\Азат\source\repos\KriptaProject\KriptaProject\bin\Debug\KriptaProject.pdb
+C:\Users\Азат\source\repos\KriptaProject\KriptaProject\obj\Debug\KriptaProject.csproj.CoreCompileInputs.cache
+C:\Users\Азат\source\repos\KriptaProject\KriptaProject\obj\Debug\KriptaProject.exe
+C:\Users\Азат\source\repos\KriptaProject\KriptaProject\obj\Debug\KriptaProject.pdb
+C:\Users\Азат\source\repos\KriptaProject\KriptaProject\obj\Debug\KriptaProject.csprojAssemblyReference.cache
